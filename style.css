@@ -7,8 +7,7 @@ body {
   display: flex;
   margin: 15px;
 }
-.small {
-  display: flex;
+#small {
   margin: 15px;
 }
 p {
